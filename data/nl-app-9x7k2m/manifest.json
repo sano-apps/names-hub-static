@@ -1,0 +1,20 @@
+{
+  "latestVersion": "2026.01.09",
+  "releaseDate": "2026-01-09T12:55:34.710509",
+  "updates": [
+    {
+      "dataVersion": "2026.01.09",
+      "minAppVersion": "1.0.0",
+      "maxAppVersion": "99.0.0",
+      "releaseNotes": "Data update 2026.01.09",
+      "files": [
+        {
+          "name": "names_mobile_core.db",
+          "url": "https://names-hub.com/data/nl-app-9x7k2m/databases/names_mobile_core_v2026.01.09.db",
+          "sha256": "f8322ddd76acc5337101626830b45b20ecac7c769a4b1ebea2ce26ee077fbf74",
+          "size": 30797824
+        }
+      ]
+    }
+  ]
+}
